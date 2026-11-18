@@ -1,0 +1,22 @@
+
+# Certificados y almacenes de llaves
+*.p12
+*.crt
+
+# Variables de entorno
+.env
+
+# Archivos compilados de Java
+*.class
+
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
